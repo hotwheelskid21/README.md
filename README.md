@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌱 I’m currently learning priority queues and asymmetrical encryption <br>💬 Ask me about Binary trees<br>⚡ Fun fact: I love to crochet and knit on my free time :)
 
 
