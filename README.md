@@ -1,8 +1,8 @@
 # About Me:
-💬 Hi, I'm a Computer Science graduate from Hunter College. <br>
-📁 
-🧙🏽‍♂️ I enjoy the wonders of Linux and the different tree data structures <br>
-🌱 I’m currently learning priority queues and asymmetrical encryption <br> ⚡ Fun fact: I love to crochet and knit on my free time :)
+💬 Hi, I'm a Computer Science graduate from Hunter College! <br>
+📁 Experienced and collaborated with others in: Javascript [React.js], HTML/CSS, C/C++  <br>
+🧙🏽‍♂️ I enjoy the wonders of Linux and the different tree data structures that the world has to offer <br>
+🌱 I’m currently learning about cryptographic methods and interested in cyber security   <br> ⚡ Fun fact: I love to crochet and knit on my free time :)
 
 
 ## 🌐 Socials:
